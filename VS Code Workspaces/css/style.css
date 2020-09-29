@@ -1,0 +1,43 @@
+
+body{
+    background-color: black;
+}
+
+#container{
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    padding: 20px;
+    font-family:"Asap";
+    /*text-align: center;*/
+}
+h1 {
+  color: purple;
+  text-transform: uppercase;
+}
+.button{
+text-decoration:none;
+color:purple;
+border-width: 2px;
+border-style: solid;
+border-radius: 10px;
+padding: 10px;
+
+
+}
+
+.left-col{
+  float:left;
+}
+.clearfix{
+  clear:both;
+}
+.hi{
+  padding: 10px;
+}
+h3{
+  padding:5;
+}
+.image{
+  float:right;
+}
