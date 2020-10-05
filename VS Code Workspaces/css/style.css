@@ -6,10 +6,12 @@ body{
 #container{
     background-color: white;
     color: black;
+    /* Margin clears an area for the padding, border, and content*/
     margin-top: 20px;
+/* padding puts extra space between the content and its border.
+Content is whatever is contained inside the 3 other properties.*/
     padding: 20px;
     font-family:"Asap";
-    /*text-align: center;*/
 }
 h1 {
   color: purple;
